@@ -6,7 +6,7 @@ Regarding the weeks;
 
 ## Weeks
 - [x] [1. Week - 21 February 2024 Wednesday](01_21_02_2024.md)
-- [ ] [2. Week - 28 February 2024 Wednesday](02_28_02_2024.md)
+- [x] [2. Week - 28 February 2024 Wednesday](02_28_02_2024.md)
 - [ ] [3. Week - 6 March 2024 Wednesday](03_06_03_2024.md)
 - [ ] [4. Week - 13 March 2024 Wednesday](04_13_03_2024.md)
 - [ ] [5. Week - 20 March 2024 Wednesday](05_20_03_2024.md)
