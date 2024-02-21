@@ -16,6 +16,6 @@ Regarding the weeks;
 - [x] [9. Week - 17 April 2024 Wednesday](09_17_04_2024.md)
 - [x] [10. Week - 24 April 2024 Wednesday](10_24_04_2024.md)
 - [x] [11. Week - 1 May 2024 Wednesday](11_01_05_2024.md)
-- [ ] [12. Week - 8 May 2024 Wednesday](12_08_05_2024.md)
+- [x] [12. Week - 8 May 2024 Wednesday](12_08_05_2024.md)
 - [ ] [13. Week - 15 May 2024 Wednesday](13_15_05_2024.md)
 - [ ] [14. Week - 22 May 2024 Wednesday](14_22_05_2024.md)
